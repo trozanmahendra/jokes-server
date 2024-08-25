@@ -1,7 +1,7 @@
 package com.cgi.jokes.controller;
 
 import com.cgi.jokes.dto.ApiResponse;
-import com.cgi.jokes.dto.Joke;
+import com.cgi.jokes.entity.Joke;
 import com.cgi.jokes.service.JokesService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

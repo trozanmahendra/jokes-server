@@ -1,7 +1,7 @@
 package com.cgi.jokes.service;
 
 import com.cgi.jokes.dao.JokesDao;
-import com.cgi.jokes.dto.Joke;
+import com.cgi.jokes.entity.Joke;
 import com.cgi.jokes.exceptions.InvalidRequestException;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
